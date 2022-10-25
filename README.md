@@ -16,26 +16,22 @@ Snake Mania is classic web3 game with DeFi, NFT-1155, ERC-20 token based fun and
 - DeFi with Token ERC-20 and NFT-1155
 - Remix IDE used to create smart contract for ERC-1155 NFT, ERC-20 game token and in-app purchase for coins
 
-### ERC-20 game token Smart Contract Address : 0x142C409B25761A0ED489e6Bb8A5eacb5A28eECe7
-https://moonbase.moonscan.io/token/0x142c409b25761a0ed489e6bb8a5eacb5a28eece7
 
-### NFT-1155 and In-Game Purchase Smart Contract Address : 0x144F30DD3e1D41313a33E4129A232EEB7e3B5d45
-https://moonbase.moonscan.io/address/0x144F30DD3e1D41313a33E4129A232EEB7e3B5d45
+### ERC-20 game token Smart Contract Address : 
+1) Polygon Mumbai Testnet : 0x34A2EcE3F60279Ae5adE00F99F2AbE87Db639BaA
+2) TrustEVM Testnet : 0x33adc8b32a448f1653bf15EDa24B5a0C1115C899
+
+### NFT-1155 and In-Game Purchase Smart Contract Address : 
+1) Polygon Mumbai Testnet : 0x76173FF984b70f9e3105635481E3574afd1DAb59
+2) TrustEVM Testnet : 0x8ECB1a0f5fB3D989420da04530Ba050eD5bdD9CA
 
 
 ### Snake Bite
-![Snake Bite Game](/SM_Images/MoonbeamSnakeMania2.jpg)
-![Snake Bite Game](/SM_Images/MoonbeamSnakeMania3.jpg)
+![Snake Bite Game](https://github.com/BlockProjectEVM/SnakeBite_Dora/blob/main/Images/SnakeBiteDora3.jpg)
+![Snake Bite Game](https://github.com/BlockProjectEVM/SnakeBite_Dora/blob/main/Images/SnakeBiteDora1.jpg)
+![Snake Bite Game](https://github.com/BlockProjectEVM/SnakeBite_Dora/blob/main/Images/SnakeBiteDora2.jpg)
 
-### DeFi - In game purchase with cronos
-![Snake Bite Game](/SM_Images/MoonbeamSnakeMania5.jpg)
 
-### NFT-1155 as game player Theme
-![Snake Bite Game](/SM_Images/MoonbeamSnakeMania1.jpg)
-
-### Moonbeam Smart contract on explorer
-![Snake Bite Game](/SM_Images/SM_01.png)
-![Snake Bite Game](/SM_Images/SM_02.png)
 
 
 
