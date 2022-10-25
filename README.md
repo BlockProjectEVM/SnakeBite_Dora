@@ -19,11 +19,11 @@ Snake Mania is classic web3 game with DeFi, NFT-1155, ERC-20 token based fun and
 
 ### ERC-20 game token Smart Contract Address : 
 1) Polygon Mumbai Testnet : 0x34A2EcE3F60279Ae5adE00F99F2AbE87Db639BaA
-2) TrustEVM Testnet : 0x33adc8b32a448f1653bf15EDa24B5a0C1115C899
+2) TrustEVM Testnet : 0x76173FF984b70f9e3105635481E3574afd1DAb59
 
 ### NFT-1155 and In-Game Purchase Smart Contract Address : 
 1) Polygon Mumbai Testnet : 0x76173FF984b70f9e3105635481E3574afd1DAb59
-2) TrustEVM Testnet : 0x8ECB1a0f5fB3D989420da04530Ba050eD5bdD9CA
+2) TrustEVM Testnet : 0x91f151D1a0CCd14104FFA864534547c528198C73
 
 
 ### Snake Bite
