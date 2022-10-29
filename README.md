@@ -1,5 +1,5 @@
 # Snake Bite
-Snake Mania is classic web3 game with DeFi, NFT-1155, ERC-20 token based fun and enteraining game
+Snake Bite is classic web3 game with DeFi, NFT-1155, ERC-20 token based fun and enteraining game
 
 ### [Click here to Play](https://bafybeicb5bas2fdumcahngfqdqhk6qfxt3ijpmzep62lz7g2da3ja2k5ku.ipfs.gateway.valist.io/)
 
