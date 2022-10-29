@@ -5,7 +5,7 @@ Snake Mania is classic web3 game with DeFi, NFT-1155, ERC-20 token based fun and
 
 ## Features
 * Simple classic gameplay with arrow controls
-* Decentralised finance system (DeFi) with in-app items with Moonbeam Alpha
+* Decentralised finance system (DeFi) with in-app items with crypto
 * Get game reward as ERC-20 token
 * NFT 1155 as game player theme
 * Exchange game token to get coins
